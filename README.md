@@ -5,3 +5,10 @@ Mi conjunto de tecnologías incluye React | Express | Redux | Sequelize | JavaSc
 
 Valoro las críticas constructivas, ya que en ellas son beneficiosas para mi desarrollo y crecimiento, tanto profesional como personal.
 Trato de mantener siempre una actitud positiva, lo que me ayuda a abordar desafíos y dificultades con optimismo, y así poder superar los obstáculos con éxito.
+
+Contáctame 👋
+Email:
+giuli_colza2@hotmail.com
+
+Linkedin:
+https://www.linkedin.com/in/giuliano-colzani-a07a3a176/
